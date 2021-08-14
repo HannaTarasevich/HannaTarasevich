@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HannaTarasevich
-- 👀 I’m interested in Automation tesitng in JS
+- 👀 I’m interested in Automation testing in JS
 - 🌱 I’m currently learning JS
 - 📫 How to reach me: ann.tarasevich@gmail.com.
 
