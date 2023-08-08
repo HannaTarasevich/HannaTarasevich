@@ -6,7 +6,7 @@ I'm a lifelong learner and an inquisitive engineer.
 
 - 🔭 I’m currently working for one of Big Four accounting firms
 - 🌱 I’m currently learning TypeScript
-- 💬 Ask me about anything, I am happy to help.
+- 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@hannatarasevich](https://www.linkedin.com/in/hannatarasevich/)
 - ⚡ Fun fact: I have a bachelor's degree in law and have started my career as a сriminal сourt сlerk.
 
