@@ -10,4 +10,7 @@ My name is Hanna Tarasevich, an Automation Quality Assurance Engineer with 5+ ye
 
 **Languages and Tools:**
 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/[ICON SLUG].svg" />
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HannaTarasevich)](https://git.io/streak-stats)
+
+
