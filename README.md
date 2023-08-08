@@ -1,10 +1,10 @@
 ### Hi there 👋 I am Hanna.
 
-I'm Automation QA Engineer, and my main focus is JavaScript and TypeScript. I have experience with various testing frameworks and tools, including Protractor, WebDriverIO, and Playwright. I have a passion for creating efficient and reliable software testing solutions. I'm a lifelong learner and an inquisitive engineer.
+My name is Hanna Tarasevich, an Automation Quality Assurance Engineer with 5+ years of professional experience. I have been working on various testing frameworks and tools, including Protractor, WebDriverIO, and Playwright. I'm a lifelong learner and an inquisitive engineer.
 
-- 🔭 I’m currently working on WebdriverIO framework using Javascript for web application
+- 🔭 I’m currently working on a framework based on the WebdriverIO with Javascript and Cucumber
 - 🌱 I’m currently learning TypeScript, Cypress, web development
-- 💬 Ask me anything about  
-- 📫 How to reach me: ...
+- 💬 Ask me about anything, I am happy to help.
+- 📫 How to reach me: [...](https://www.linkedin.com/in/hannatarasevich/)
 - ⚡ Fun fact: I have a bachelor's degree in law and have started my career as a сriminal сourt сlerk.
 
