@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Hanna.
 
 I'm an Automation Quality Assurance Engineer with 5+ years of professional experience.
-I have been working on various testing frameworks and tools, including Protractor, WebDriverIO, and Playwright. 
+I have been working with various testing frameworks and tools, including Protractor, WebDriverIO, and Playwright. 
 I'm a lifelong learner and an inquisitive engineer.
 
 - 🔭 I’m currently working for one of Big Four accounting firms
