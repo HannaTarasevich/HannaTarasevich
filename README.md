@@ -10,5 +10,4 @@ My name is Hanna Tarasevich, an Automation Quality Assurance Engineer with 5+ ye
 
 **Languages and Tools:**
 
- <a href="https://azure.microsoft.com/en-us/" title="Azure" rel="nofollow">
-     <code><img alt="azure" height="35" src="https://user-images.githubusercontent.com/5048841/179474709-6ed41c2a-b18b-41e7-997d-b7a2f22c1335.png" style="max-width: 100%;"></code></a>
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/[ICON SLUG].svg" />
