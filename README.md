@@ -4,7 +4,7 @@ I'm an Automation Quality Assurance Engineer with 5+ years of professional exper
 I have been working with various testing frameworks and tools, including Protractor, WebDriverIO, and Playwright. 
 I'm a lifelong learner and an inquisitive engineer.
 
-- 🔭 I’m currently working for one of Big Four accounting firms
+- 🔭 I’m currently working for one of Big Four accounting companies
 - 🌱 I’m currently learning TypeScript
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@hannatarasevich](https://www.linkedin.com/in/hannatarasevich/)
