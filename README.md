@@ -44,4 +44,4 @@ I'm a lifelong learner and an inquisitive engineer.
 </table>
 
 **Codewars:**
-<img src="https://www.codewars.com/users/HannaTarasevich/badges/small" alt="Codewars" title="Codewars"/>
+<tr><img src="https://www.codewars.com/users/HannaTarasevich/badges/large" alt="Codewars" title="Codewars"/></tr>
